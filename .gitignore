@@ -1,18 +1,4 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
 /build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
 
 # Created by https://www.toptal.com/developers/gitignore/api/android,androidstudio,kotlin,java,git
 # Edit at https://www.toptal.com/developers/gitignore?templates=android,androidstudio,kotlin,java,git
@@ -227,5 +213,8 @@ fabric.properties
 ### AndroidStudio Patch ###
 
 !/gradle/wrapper/gradle-wrapper.jar
+
+# Ignore ApiClient.kt
+app/src/main/java/com/eosdev/yemenu/data/api/ApiClient.kt
 
 # End of https://www.toptal.com/developers/gitignore/api/android,androidstudio,kotlin,java,git

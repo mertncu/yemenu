@@ -214,4 +214,7 @@ fabric.properties
 
 !/gradle/wrapper/gradle-wrapper.jar
 
+# Ignore ApiClient.kt
+app/src/main/java/com/eosdev/yemenu/data/api/ApiClient.kt
+
 # End of https://www.toptal.com/developers/gitignore/api/android,androidstudio,kotlin,java,git
