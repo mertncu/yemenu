@@ -1,4 +1,4 @@
-package com.eosdev.yemenu.data.repository
+package com.eosdev.yemenu.data.api
 
 import com.google.gson.annotations.SerializedName
 
