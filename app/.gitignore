@@ -1,4 +1,5 @@
 /build
+.env
 
 # Created by https://www.toptal.com/developers/gitignore/api/android,androidstudio,kotlin,java,git
 # Edit at https://www.toptal.com/developers/gitignore?templates=android,androidstudio,kotlin,java,git
