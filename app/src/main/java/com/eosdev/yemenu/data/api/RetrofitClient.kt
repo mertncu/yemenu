@@ -1,4 +1,4 @@
-package com.eosdev.yemenu.data.retrofit
+package com.eosdev.yemenu.data.api
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
